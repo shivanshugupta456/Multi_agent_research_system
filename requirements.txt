@@ -38,3 +38,4 @@ tiktoken
 
 # Retry Handling
 tenacity
+referencing
