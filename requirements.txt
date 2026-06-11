@@ -31,8 +31,7 @@ aiohttp
 # Utilities
 rich
 
-# Optional Parsing & Document Loaders
-unstructured
+
 
 # Token Counting
 tiktoken
