@@ -1,4 +1,6 @@
 from agents import build_reader_agent , build_search_agent , writer_chain , critic_chain
+from dotenv import load_dotenv
+load_dotenv()
 
 def run_research_pipeline(topic : str) -> dict:
 
