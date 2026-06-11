@@ -1,0 +1,40 @@
+# LLM
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Multi-Agent / Graph Orchestration
+langgraph
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+lxml
+html5lib
+
+# HTTP Requests
+requests
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Async Support
+aiohttp
+
+# Utilities
+rich
+
+# Optional Parsing & Document Loaders
+unstructured
+
+# Token Counting
+tiktoken
+
+# Retry Handling
+tenacity
